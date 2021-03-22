@@ -2,7 +2,7 @@
 - 👀 You can find me programming, playing around with spreadsheets and playing the ukulele
 - 🌱 I’m currently learning Computer Science the TU-Delft
 
-- 📫 How to reach me ... here, or by paffon@gmail.com
+- 📫 Don't be shy - say hi! paffon@gmail.com
 
 <!---
 paffon/paffon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
